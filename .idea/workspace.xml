@@ -66,7 +66,16 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.4888889">
+            <state line="12" column="14" selection-start="167" selection-end="167" vertical-scroll-proportion="0.26666668">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="17" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,8 +140,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="563" />
-    <option name="y" value="44" />
+    <option name="x" value="576" />
+    <option name="y" value="215" />
     <option name="width" value="1420" />
     <option name="height" value="823" />
   </component>
@@ -509,7 +518,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="563" y="44" width="1420" height="823" extended-state="0" />
+    <frame x="576" y="215" width="1420" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965517" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -649,9 +658,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.4888889">
+        <state line="12" column="14" selection-start="167" selection-end="167" vertical-scroll-proportion="0.26666668">
           <folding />
         </state>
       </provider>
