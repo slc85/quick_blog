@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
-  before_filter :authenticate, :except => [ :index, :show ]
+  #(uncomment for password)before_filter :authenticate, :except => [ :index, :show ]
   # GET /posts
   # GET /posts.json
   def index
@@ -81,10 +81,10 @@ class PostsController < ApplicationController
       format.json { head :no_content }
     end
   end
-  private
-  def authenticate
-    authenticate_or_request_with_http_basic do |name, password|
-      name == "admin" && password == "secret"
-    end
-  end
+  #private
+  #def authenticate
+    #authenticate_or_request_with_http_basic do |name, password|
+      #name == "admin" && password == "secret"
+    #end
+  #end
 end
